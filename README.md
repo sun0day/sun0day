@@ -2,7 +2,7 @@
 
 #### About Me
 
-A frontend programmer
+A frontend programmer.
 
 #### I’m currently working on...
 
