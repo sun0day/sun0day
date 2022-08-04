@@ -10,6 +10,7 @@ A frontend programmer.
 - [sun0day's story](https://hackernoon.com/u/sun0day): Personal tech blog in hackernoon.
 - [awesome-online-tool](https://github.com/sun0day/awesome-online-tool): Collecting awesome online tools.
 - [system-design-question](https://github.com/sun0day/system-design-question): A github repo which collects full-stack design questions.
+- [go-async](https://github.com/sun0day/async): A ES7-style async/await implementation lib based on Goroutine + Channel in Golang.
 - [contribution](https://github.com/pulls?q=is%3Apr+author%3Asun0day+archived%3Afalse+is%3Aclosed): contribution on opensource repo.
 
 <br />
