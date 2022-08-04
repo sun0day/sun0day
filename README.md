@@ -6,7 +6,7 @@ A frontend programmer.
 
 #### I’m currently working on...
 
-- [技术与面包](https://www.zhihu.com/column/c_1302591122619637760): Personal tech blog.
+- [技术0到1](https://www.zhihu.com/column/c_1302591122619637760): Personal tech blog.
 - [awesome-online-tool](https://github.com/sun0day/awesome-online-tool): Collecting awesome online tools.
 - [system-design-question](https://github.com/sun0day/system-design-question): A github repo which collects full-stack design questions.
 - [contribution](https://github.com/pulls?q=is%3Apr+author%3Asun0day+archived%3Afalse+is%3Aclosed): contribution on opensource repo.
