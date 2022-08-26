@@ -4,7 +4,7 @@
 
 A full-stack programmer. 
 
-Contributor of [Vitest](https://github.com/vitest-dev/vitest), [histoire](https://github.com/histoire-dev/histoire), [umi](https://github.com/umijs/umi).
+Contributor of [vitest](https://github.com/vitest-dev/vitest), [histoire](https://github.com/histoire-dev/histoire), [umi](https://github.com/umijs/umi).
 
 #### I’m currently working on...
 
