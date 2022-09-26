@@ -4,7 +4,7 @@
 
 A full-stack programmer. 
 
-Contributor of [vitest](https://github.com/vitest-dev/vitest), [histoire](https://github.com/histoire-dev/histoire), [umi](https://github.com/umijs/umi), [storybook](https://github.com/storybookjs/storybook), [vueuse](https://github.com/vueuse/vueuse), [vitepress](https://github.com/vuejs/vitepress).
+Contributor of [vitest](https://github.com/vitest-dev/vitest), [histoire](https://github.com/histoire-dev/histoire), [umi](https://github.com/umijs/umi), [storybook](https://github.com/storybookjs/storybook), [vueuse](https://github.com/vueuse/vueuse), [vitepress](https://github.com/vuejs/vitepress), [signals](https://github.com/preactjs/signals).
 
 #### I’m currently working on...
 
