@@ -18,6 +18,13 @@ Contributor of [vitest](https://github.com/vitest-dev/vitest), [histoire](https:
 <br />
 
 >  Peace & Code
+<br />
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sun0day&show_icons=true&locale=en" alt="sun0day" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sun0day&theme=tokyonight_duo&border=e0e0e0&stroke=e0e0e0" alt="sun0day" /></p>
+
+
 
 
 
