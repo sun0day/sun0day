@@ -12,7 +12,7 @@ Read my story on [技术0到1](https://www.zhihu.com/column/c_130259112261963776
 <br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sun0day&repo=async)](https://github.com/sun0day/async)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sun0day&repo=wodash)](https://github.com/sun0day/wodash)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sun0day&repo=modern-api)](https://github.com/sun0day/modern-api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sun0day&repo=dori)](https://github.com/sun0day/dori)
 
 <p>
