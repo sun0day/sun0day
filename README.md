@@ -4,9 +4,11 @@
 
 A full-stack programmer. 
 
-**Contributor** of [vitest](https://github.com/vitest-dev/vitest), [histoire](https://github.com/histoire-dev/histoire), [umi](https://github.com/umijs/umi), [storybook](https://github.com/storybookjs/storybook), [vueuse](https://github.com/vueuse/vueuse), [vitepress](https://github.com/vuejs/vitepress), [signals](https://github.com/preactjs/signals), [pino](https://github.com/pinojs/pino), [nextui](https://github.com/nextui-org/nextui).
+**Contributor** of [vitest](https://github.com/vitest-dev/vitest), [histoire](https://github.com/histoire-dev/histoire), [umi](https://github.com/umijs/umi), [storybook](https://github.com/storybookjs/storybook), [vitepress](https://github.com/vuejs/vitepress), [signals](https://github.com/preactjs/signals), [pino](https://github.com/pinojs/pino), [nextui](https://github.com/nextui-org/nextui).
 
 **Collaborator** of [trpc](https://github.com/trpc/trpc).
+
+**Member** of [vueuse](https://github.com/vueuse/vueuse).
 
 Read my story on [技术0到1](https://www.zhihu.com/column/c_1302591122619637760) or [sun0day's story](https://hackernoon.com/u/sun0day).
 
