@@ -4,7 +4,7 @@
 
 A full-stack programmer. 
 
-**Contributor** of [vitest](https://github.com/vitest-dev/vitest), [histoire](https://github.com/histoire-dev/histoire), [umi](https://github.com/umijs/umi), [storybook](https://github.com/storybookjs/storybook), [vitepress](https://github.com/vuejs/vitepress), [signals](https://github.com/preactjs/signals), [pino](https://github.com/pinojs/pino).
+**Contributor** of [vite](https://github.com/vitejs/vite), [vitest](https://github.com/vitest-dev/vitest), [histoire](https://github.com/histoire-dev/histoire), [umi](https://github.com/umijs/umi), [storybook](https://github.com/storybookjs/storybook), [vitepress](https://github.com/vuejs/vitepress), [signals](https://github.com/preactjs/signals), [pino](https://github.com/pinojs/pino).
 
 **Collaborator** of [trpc](https://github.com/trpc/trpc).
 
