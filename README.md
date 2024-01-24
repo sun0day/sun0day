@@ -6,7 +6,15 @@
 
 #### Network
 
-- [dns-detector](https://github.com/sun0day/dns-detector): A nodejs cli tool to resolve host's IPs
+- [dns-detector](https://github.com/sun0day/dns-detector): A Nodejs cli tool to resolve host's IPs.
+
+#### Chrome extension
+
+- [chrome-extension-helper](https://github.com/sun0day/chrome-extension-helper): A mono repo to improve the Chrome extension DX.
+
+#### Code analysis
+
+- [easy-ast](https://github.com/rust-redo/easy-ast): Fast APIs for scanning and transforming js-ast.
 
 
 <br />
