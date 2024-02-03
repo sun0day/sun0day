@@ -10,11 +10,12 @@
 
 #### Chrome extension
 
-- [chrome-extension-helper](https://github.com/sun0day/chrome-extension-helper): A mono repo to improve the Chrome extension DX.
+- [happy-chrome-extension](https://github.com/sun0day/happy-chrome-extension): A mono repo to improve the Chrome extension DX.
 
-#### Code analysis
+<!--#### Code analysis
 
-- [easy-ast](https://github.com/rust-redo/easy-ast): Fast APIs for scanning and transforming js-ast.
+- [easy-ast](https://github.com/rust-redo/easy-ast): Fast APIs for scanning and transforming js-ast. 
+-->
 
 
 <br />
