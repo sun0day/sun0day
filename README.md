@@ -2,17 +2,17 @@
 
 
 
-### ⚓ May my open-source effort help you: 
+### ⚓ May open-source help you: 
 
 #### Network
 
-- [dns-detector](https://github.com/sun0day/dns-detector): A Nodejs cli tool to resolve host's IPs.
+- [dns-detector](https://github.com/sun0day/dns-detector): A super tiny Nodejs cli tool to resolve host's IPs.
 
-#### Chrome extension
+<!--#### Chrome extension
 
 - [happy-chrome-extension](https://github.com/sun0day/happy-chrome-extension): A mono repo to improve the Chrome extension DX.
 
-<!--#### Code analysis
+#### Code analysis
 
 - [easy-ast](https://github.com/rust-redo/easy-ast): Fast APIs for scanning and transforming js-ast. 
 -->
