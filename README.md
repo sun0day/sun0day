@@ -4,10 +4,10 @@
 
 ### ⚓ Projects: 
 
-|repo|version|description|
-|-----|-----|-----|
-[svg-sketchy](https://github.com/sun0day/svg-sketchy) | WIP | A Node.js CLI to sketch svg.
-|[dns-detector](https://github.com/sun0day/dns-detector)| <img src="https://img.shields.io/npm/v/dns-detector"> | A super tiny Nodejs cli tool to resolve host's IPs.
+|repo|version|type|description|
+|-----|-----|-----|----|
+[svg-sketchy](https://github.com/sun0day/svg-sketchy) | WIP |`Node.js CLI` `svg`| A Node.js CLI to sketch svg.
+|[dns-detector](https://github.com/sun0day/dns-detector)| <img src="https://img.shields.io/npm/v/dns-detector"> | `Node.js CLI` `network` |A super tiny Nodejs cli tool to resolve host's IPs.
 
 
 
